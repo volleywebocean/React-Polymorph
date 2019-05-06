@@ -12,13 +12,6 @@
       "email": "volleysport1234@outlook.com"
     }
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/input-output-hk/react-polymorph.git"
-  },
-  "bugs": {
-    "url": "https://github.com/input-output-hk/react-polymorph/issues"
-  },
   "keywords": [
     "react",
     "components",
