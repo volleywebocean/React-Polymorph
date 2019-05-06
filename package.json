@@ -3,24 +3,13 @@
   "description": "React components with highly customizable logic, markup and styles.",
   "version": "0.8.1",
   "author": {
-    "name": "Dominik Guzei",
-    "url": "https://github.com/DominikGuzei"
+    "name": "volley",
+    "url": "https://github.com/volleywebocean"
   },
   "contributors": [
     {
-      "name": "Dominik Guzei",
-      "email": "dominik.guzei@gmail.com",
-      "url": "https://www.linkedin.com/in/dominik-guzei"
-    },
-    {
-      "name": "Nikola Glumac",
-      "email": "niglumac@gmail.com",
-      "url": "https://www.linkedin.com/in/nikolaglumac"
-    },
-    {
-      "name": "Marcus Hurney",
-      "email": "marcushurney@gmail.com",
-      "url": "https://www.linkedin.com/in/marcus-hurney"
+      "name": "volley",
+      "email": "volleysport1234@outlook.com"
     }
   ],
   "repository": {
