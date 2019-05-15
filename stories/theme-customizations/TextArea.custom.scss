@@ -1,0 +1,14 @@
+// Textarea theme customizations
+
+$textarea-bg-color: #d3fcf5;
+$textarea-border: 1px solid #c6cdd6;
+$textarea-border-color-focus: #2d6166;
+$textarea-border-radius: 0;
+$textarea-font-family: serif;
+$textarea-font-size: 14px;
+$textarea-outline-focus: none;
+$textarea-padding: 14px 20px;
+$textarea-placeholder-color: rgba(#4f6665, 0.5);
+$textarea-text-color: #356166;
+
+@import "../../source/themes/simple/SimpleTextArea";
