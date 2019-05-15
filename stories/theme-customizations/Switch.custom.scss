@@ -1,0 +1,9 @@
+// Switch theme customizations
+$switch-bg-color-off: #b4bdca;
+$switch-bg-color-on: #3c6e3d;
+$switch-height: 10px;
+$switch-label-text-color: #316626;
+$switch-thumb-bg-color: #ffffff;
+$switch-width: 50px;
+
+@import "../../source/themes/simple/SimpleSwitch";
